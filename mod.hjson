@@ -1,0 +1,6 @@
+name: "AE"
+displayName: "a" //what displays in the mod selection menu
+author: "AE"
+description: "Fancy edition"
+version: "-1"
+minGameVersion: "112"
